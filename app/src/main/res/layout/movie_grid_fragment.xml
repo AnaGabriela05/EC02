@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/page1"
+    tools:context=".MovieGridFragment"
+    >
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:elevation="0dp"
+        >
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/app_bar"
+            style="@style/Widget.Peliculas.Toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            app:navigationIcon="@drawable/menu_24"
+            app:title="@string/app_name"
+            />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_buttom"
+        android:layout_marginTop="400dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/heycomic"
+        android:padding="2dp"
+        app:elevation="10dp"
+        android:text="Ver Ahora"
+        app:backgroundTint="@null" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="734dp"
+        android:layout_marginTop="56dp"
+        android:background="@color/white"
+        android:elevation="8dp"
+        android:paddingStart="@dimen/product_grid_spacing"
+        android:paddingEnd="@dimen/product_grid_spacing"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </androidx.core.widget.NestedScrollView>
+
+</FrameLayout>

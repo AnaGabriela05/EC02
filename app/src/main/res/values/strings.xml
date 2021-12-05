@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vive tus Series</string>
+    <string name="footer">©Disfruta</string>
+    <string name="app_description">Diviertete mirando tus series favoritas</string>
+    <string name="app_description2">Vive una gran experiencia</string>
+
+    <string name="hint_username" >Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="button_next">Ingresar</string>
+    <string name="button">Comenzar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="frase">"Mamá siempre decía que la vida era como una caja de chocolates. Nunca sabes qué te va a tocar"-Forrest Gump</string>
+    <string name="error_password">Password must contain al least 6 characters.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="product_title">Title</string>
+    <string name="product_description">Description Text</string>
+
+</resources>

@@ -1,0 +1,103 @@
+[
+  {
+    "title": "One Piece",
+    "url": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest?cb=20190727212440&path-prefix=es",
+    "state": "Serie"
+  },
+  {
+    "title": "Rick and Morty",
+    "url": "https://es.web.img3.acsta.net/pictures/18/10/31/17/34/2348073.jpg",
+    "state": "Serie"
+  },
+  {
+    "title": "BoJack Horseman",
+    "url": "https://static.wikia.nocookie.net/doblaje/images/2/2b/Bojack_horseman_xlg.jpg/revision/latest?cb=20200906225803&path-prefix=es",
+    "state": "Serie"
+  },
+  {
+    "title": "Desencanto",
+    "url": "https://i.pinimg.com/originals/dd/c3/38/ddc33839b98d526e8286478cb7739bcb.jpg",
+    "state": "Serie"
+  },
+  {
+  "title": "Simpsoms",
+  "url": "https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg",
+  "state": "Serie"
+},
+  {
+    "title": "Las Aventuras del Rey Julian",
+    "url": "https://mx.web.img2.acsta.net/pictures/20/05/24/04/49/0448954.jpg",
+    "state": "Serie"
+  },
+  {
+    "title": "Gato con Botas",
+    "url": "https://images-na.ssl-images-amazon.com/images/I/A1aZl4wVyPL.jpg",
+    "state": "Pelicula"
+  },
+
+  {
+    "title": "My Hero Academia",
+    "url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/1/17/World_Heroes%27_Mission_Key_Visual_2.png/revision/latest?cb=20210607034354&path-prefix=es",
+    "state": "serie"
+  },
+  {
+    "title": "Dragon Boll Z",
+    "url": "https://static.wikia.nocookie.net/doblaje/images/4/4a/DragonBall.jpeg/revision/latest?cb=20200915224214&path-prefix=es",
+    "state": "Serie"
+  },
+  {
+    "title": "Naruto",
+    "url": "https://www.formulatv.com/images/series/posters/100/135/dest_1.jpg",
+    "state": "Serie"
+  },
+  {
+    "title": "Darck",
+    "url": "https://es.web.img3.acsta.net/pictures/17/11/10/12/27/3064798.jpg",
+    "state": "Serie"
+  },
+  {
+    "title": "Host",
+    "url": "https://es.web.img3.acsta.net/pictures/20/11/26/09/31/1607066.jpg",
+    "state": "Pelicula"
+  },
+  {
+    "title": "Sex Education",
+    "url": "https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg",
+    "state": "Serie"
+  },
+  {
+    "title": "You",
+    "url": "https://es.web.img3.acsta.net/pictures/18/12/31/02/49/2373131.jpg",
+    "state": "Series"
+  },
+  {
+    "title": "Jurassic World",
+    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzsbrQ-CBlRMcqxEIuxg_ZJYj_da8ze8mqFRPUGG6o-jBh103S",
+    "state": "Pelicula"
+  },
+  {
+    "title": "Como niños",
+    "url": "https://play-lh.googleusercontent.com/c-aFh5FX2TZ_pkXK-svSmZ2HkY3VT0_TBhE1Fwua0_rlN5_7HCZSOwJXvWyL_KlVvyY",
+    "state": "Pelicula"
+  },
+  {
+  "title": "Venom",
+  "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZaRa4lpAjxe-1MyN3Sy4ASnfnnkNzbtybyr-h3UGakUj-KYjy",
+  "state": "Pelicula"
+},
+  {
+  "title": "Jumanji",
+  "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoUsWT1Ut5ziNHJDsUdJ5r-HD-0h639pMsyH2RPU_Mvg_uSh4u",
+  "state": "Pelicula"
+},
+  {
+  "title": "Spiderman",
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTca5mlD6AS7A4UcmyR1ooultf-fndLvrpUAeoGLIxWSNHyOoa8",
+  "state": "Pelicula"
+},
+  {
+  "title": "Spiderman2",
+  "url": "https://es.web.img3.acsta.net/pictures/14/06/20/13/56/179267.jpg",
+  "state": "Pelicula"
+}
+]

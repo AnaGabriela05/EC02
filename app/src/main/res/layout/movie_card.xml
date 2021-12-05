@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardElevation="0dp"
+    app:cardPreventCornerOverlap="true"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/movie_image"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_margin="1dp"
+            android:background="@color/title"
+            android:scaleType="centerCrop"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dp"
+            android:background="@drawable/imput">
+            <TextView
+                android:id="@+id/movie_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp"
+                android:text="@string/product_title"
+                android:textAlignment="center"
+                android:textAppearance="?attr/textAppearanceSubtitle2"
+                />
+            <TextView
+                android:id="@+id/movie_state"
+                android:textColor="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="2dp"
+                android:text="@string/product_description"
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textAlignment="center"
+                />
+
+
+        </LinearLayout >
+        <Button
+            android:id="@+id/next_button"
+            android:layout_width="108dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_buttom"
+            android:layout_gravity="center"
+            android:fontFamily="@font/heycomic"
+            android:padding="2dp"
+            app:elevation="10dp"
+            android:text="Ver Ahora"
+            app:backgroundTint="@null" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
