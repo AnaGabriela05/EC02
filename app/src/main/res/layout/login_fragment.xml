@@ -18,7 +18,7 @@
         android:layout_marginBottom="20dp"
         android:fontFamily="@font/heycomic"
         android:text="Bienvenido"
-        android:textColor="#57BBFD"
+        android:textColor="#F3FAFF"
         android:textSize="45dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
